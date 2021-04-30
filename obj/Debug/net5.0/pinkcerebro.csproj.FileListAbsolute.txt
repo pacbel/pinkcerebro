@@ -1,0 +1,16 @@
+F:\digitalInnovationOne\workspace\pinkcerebro\bin\Debug\net5.0\pinkcerebro.exe
+F:\digitalInnovationOne\workspace\pinkcerebro\bin\Debug\net5.0\pinkcerebro.deps.json
+F:\digitalInnovationOne\workspace\pinkcerebro\bin\Debug\net5.0\pinkcerebro.runtimeconfig.json
+F:\digitalInnovationOne\workspace\pinkcerebro\bin\Debug\net5.0\pinkcerebro.runtimeconfig.dev.json
+F:\digitalInnovationOne\workspace\pinkcerebro\bin\Debug\net5.0\pinkcerebro.dll
+F:\digitalInnovationOne\workspace\pinkcerebro\bin\Debug\net5.0\ref\pinkcerebro.dll
+F:\digitalInnovationOne\workspace\pinkcerebro\bin\Debug\net5.0\pinkcerebro.pdb
+F:\digitalInnovationOne\workspace\pinkcerebro\obj\Debug\net5.0\pinkcerebro.csprojAssemblyReference.cache
+F:\digitalInnovationOne\workspace\pinkcerebro\obj\Debug\net5.0\pinkcerebro.GeneratedMSBuildEditorConfig.editorconfig
+F:\digitalInnovationOne\workspace\pinkcerebro\obj\Debug\net5.0\pinkcerebro.AssemblyInfoInputs.cache
+F:\digitalInnovationOne\workspace\pinkcerebro\obj\Debug\net5.0\pinkcerebro.AssemblyInfo.cs
+F:\digitalInnovationOne\workspace\pinkcerebro\obj\Debug\net5.0\pinkcerebro.csproj.CoreCompileInputs.cache
+F:\digitalInnovationOne\workspace\pinkcerebro\obj\Debug\net5.0\pinkcerebro.dll
+F:\digitalInnovationOne\workspace\pinkcerebro\obj\Debug\net5.0\ref\pinkcerebro.dll
+F:\digitalInnovationOne\workspace\pinkcerebro\obj\Debug\net5.0\pinkcerebro.pdb
+F:\digitalInnovationOne\workspace\pinkcerebro\obj\Debug\net5.0\pinkcerebro.genruntimeconfig.cache
